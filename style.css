@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-size: 1em;
+    font-family:'Trebuchet MS', Helvetica, sans-serif;
+    background: #000000
+
+}
+
+
+
+    
+body {
+    background-image:  url(imagens/5c7bd135417403.56f604003e0eb.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*TOPO*/
+header{
+    background: rgb(300, 0, 0);
+    display: flex;
+}
+
+a:link, a:visited{
+    color: rgb(0, 0, 0);
+    padding: 40px 20px;
+}
+
+#logo{
+   
+    width: 200px;
+}
+
+nav{
+   
+    width:  500px;
+    margin-left: 300px;
+    
+}
+a{
+    text-decoration: none;
+}
+
+
+a:hover{
+    color:#000000;
+ 
+}
+
+
+/*CORPO DO SITE */
+
+main{
+display: flex;
+margin: 50px;
+
+
+}
+footer{
+    
+    color: rgb(0, 0, 0);
+    
+}
+
+body{
+    font-size: 1em;
+    font-family:1px ;
+    
+}
+
+p{
+    background-color: rgba(255,255,255,.8);
+    padding: 40px;
+  
+}
+
+#esponja {
+    margin-left: 550px;
+    
+}
+
+section{
+    display: flex;
+    margin: 150px;
+    
+
+}
+
+.ingresso{
+    width:  300px;
+    margin: 30px;
+}
+
+
+/*RODAPE */
+#endereço{
+    width:  300px;
+    margin: 20px;
+    background-color: #000000;
+
+}
